@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Shoe Dog",
+    "author": "Phil Knight",
+    "category": "Biography",
+    "available": false,
+    "type": "physical"
+  },
+  {
+    "title": "Aliens",
+    "author": "Jk",
+    "category": "Sf",
+    "available": true,
+    "type": "ebook"
+  },
+  {
+    "shelfLocation": "4C",
+    "title": "Jurnalu unui Pusti",
+    "author": "Pusti",
+    "category": "Diary",
+    "available": true,
+    "type": "physical"
+  }
+]

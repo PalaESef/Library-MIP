@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Andrei",
+    "userId": 1,
+    "borrowedBooks": [
+      {
+        "title": "Shoe Dog",
+        "author": "Phil Knight",
+        "category": "Biography",
+        "available": false,
+        "type": "physical"
+      }
+    ],
+    "allBooks": []
+  },
+  {
+    "name": "Sergiu",
+    "userId": 2,
+    "borrowedBooks": [],
+    "allBooks": []
+  }
+]
