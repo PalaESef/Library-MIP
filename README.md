@@ -1,2 +1,2 @@
-# Library-MIP
-Proiect Laborator MIP. Am facut o biblioteca virtuala.
+# Library
+I created in Java a virtual library.
